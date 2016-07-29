@@ -22,7 +22,9 @@ Run the program with::
 
     $ node app.js
 
-The api will be available at """localhost:3000"""
+The api will be available at
+
+  "http://localhost:3000"
 
 
 To make use of the API just follow these rules
