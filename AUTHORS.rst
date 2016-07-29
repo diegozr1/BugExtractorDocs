@@ -1,4 +1,4 @@
-Authasors
+About
 -------
 
 * Eleni Stroulia
