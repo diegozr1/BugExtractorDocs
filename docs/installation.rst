@@ -1,5 +1,5 @@
 ============
-Installation
+Node.js Python Integration
 ============
 
 Clone the repository::

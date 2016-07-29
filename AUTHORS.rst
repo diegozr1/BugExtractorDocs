@@ -6,7 +6,7 @@ This is the documentation site for all projectes related to the Issues explorati
 There is a list below with all the projects developed to help explore and extract relavant information
 and integrate it to the main Task Assignment project.
 
-The
+The documentation for every project can be found on this site
 
 
 Projects
