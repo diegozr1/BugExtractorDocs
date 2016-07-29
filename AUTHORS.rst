@@ -19,7 +19,7 @@ This is a Node.js project that is already test for the exploration of the main p
     - Gitlab
     - BugParty(When deployed and running)
 
-You can check all the live version available here: https://issuesprovider.herokuapp.com
+You can check the live version of this API available here: https://issuesprovider.herokuapp.com
 
 
 * BugExtractor - https://github.com/TaskAssignment/BugExtractor
