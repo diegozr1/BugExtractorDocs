@@ -3,7 +3,7 @@ Bug Extractor
 
 $project is made with 3 repositories for the exploration and extraction of bugs accross several
 
-Look how easy it is to use:
+Look how easy it is to use::
 
     import project
     # Get your stuff done

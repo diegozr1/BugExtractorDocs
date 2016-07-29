@@ -1,5 +1,5 @@
 ============
-Node.js Python Integration
+IssuesProvider
 ============
 
 Clone the repository::
