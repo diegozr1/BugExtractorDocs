@@ -1,3 +1,3 @@
 =============
-CONTRIBUITING
+Contributing
 =============
