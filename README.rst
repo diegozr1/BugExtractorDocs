@@ -22,9 +22,17 @@ Features
 Installation
 ------------
 
-Install $project by running:
+To install and run the bug extractor:
 
-    install project
+
+Clone the repository::
+
+    git clone https://github.com/TaskAssignment/BugExtractor
+
+Install the packages with pip::
+
+    $ pip3 install -r requirements.txt
+
 
 Contribute
 ----------
