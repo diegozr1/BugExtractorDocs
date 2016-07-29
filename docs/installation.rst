@@ -18,7 +18,14 @@ Install the packages with npm::
 
     $ npm install
 
-To make use of the information just follow along with the following
+Run the program with::
+
+    $ node app.js
+
+The api will be available at """localhost:3000"""
+
+
+To make use of the API just follow these rules
 
 List of routes
 --------------
