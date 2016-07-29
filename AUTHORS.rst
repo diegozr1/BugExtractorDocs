@@ -1,4 +1,0 @@
-Authors
--------
-
-* Diego Zamora Rodriguez

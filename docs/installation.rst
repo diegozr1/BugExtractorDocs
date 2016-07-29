@@ -8,4 +8,8 @@ Clone the repository::
 
 Install the packages with pip::
 
-    $ pip install read-the-docs-template
+    $ pip3 install -r requirements.txt
+
+============
+Installation
+============
