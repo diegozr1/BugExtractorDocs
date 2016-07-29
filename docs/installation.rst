@@ -20,7 +20,7 @@ Install the packages with npm::
 
 Run the program with::
 
-    $ node app.js
+    $ npm start
 
 The api will be available at
 

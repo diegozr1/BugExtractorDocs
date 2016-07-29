@@ -3,6 +3,8 @@ Node.js - Python3 Integration
 
 Integration of the Python3 extraction tool is made with Node.js
 
+About
+------
 
 The npm package used for this is::
 
@@ -31,8 +33,24 @@ Install the packages with npm::
 
 Run the program with::
 
-    $ node app.js
+    $ npm start
 
 The api will be available at
 
   "http://localhost:3000"
+  
+
+  About
+  ------
+
+
+  About
+  ------
+
+
+  About
+  ------
+
+
+  About
+  ------
