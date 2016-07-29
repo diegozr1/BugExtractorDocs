@@ -30,9 +30,9 @@ Change directory into it::
 
   $ cd IntegratePythonExplorer
 
-Install the packages with npm::
+Install the packages with npm and python3::
 
-    $ npm install
+    $ npm install && sudo pip3 install -r requirements.txt
 
 Run the program with::
 

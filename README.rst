@@ -6,7 +6,7 @@ https://github.com/TaskAssignment/BugExtractor
 The bug extractor is a Python3 script used to extract the information
 
 
-Use
+Installation
 ----
 
 To install and run the bug extractor:
@@ -14,29 +14,32 @@ To install and run the bug extractor:
 
 Clone the repository::
 
-    git clone https://github.com/TaskAssignment/BugExtractor
+    $ git clone https://github.com/TaskAssignment/BugExtractor
+
+Change the directory
+
+    $ cd BugExtractor
 
 Install the packages with pip::
 
     $ pip3 install -r requirements.txt
 
 
-
-Installation
+Use
 --------
 
-Clone the repository::
+Show services available::
 
-  $  git clone https://github.com/TaskAssignment/IssuesProvider
+  $  python3 generalextractor.py [service] [projects]
 
-Change directory into it::
+Show services from every project::
 
   $ cd IssuesProvider
 
 
-Install the packages with npm::
+Extract bugs from a service ::
 
-    $ npm install
+    $ python3 generalextractor.py [service]
 
 Run the program with::
 
@@ -50,11 +53,14 @@ The api will be available at
 To make use of the API just follow these rules
 
 
-Features
+Services available
 --------
 
-- Be awesome
-- Make things faster
+- Mozilla
+- Eclipse
+
+The rest of projects hosted on Bugzilla might work
+but are not tested and completely supported
 
 
 Contribute
