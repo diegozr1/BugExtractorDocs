@@ -11,15 +11,21 @@ and integrate it to the main Task Assignment project
 Projects
 -------
 
-* IssuesProvider
-- https://github.com/TaskAssignment/IssuesProvider
+* IssuesProvider - https://github.com/TaskAssignment/IssuesProvider
 
-* BugExtractor
-- https://github.com/TaskAssignment/BugExtractor
+This is a Node.js project that is already test for the exploration of the
 
-* Node.js - Python Integration
-- https://github.com/TaskAssignment/IntegratePythonExplorer
 
+* BugExtractor - https://github.com/TaskAssignment/BugExtractor
+
+This is a Python 3 Script that crawls the BugZilla platform for finding the complete list of projects
+of each open source organization and 
+
+
+* Node.js - Python Integration - https://github.com/TaskAssignment/IntegratePythonExplorer
+
+This is a Node.js project that runs the python3 shell in order to incorporate the BugExtractor to the
+main Task Assignment project
 
 
 Team
