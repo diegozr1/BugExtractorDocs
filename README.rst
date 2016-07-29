@@ -32,50 +32,49 @@ Show services available::
 
   $  python3 generalextractor.py [service] [projects]
 
-Show services from every project::
+Show projects from a service::
 
   $ cd IssuesProvider
 
-
-Extract bugs from a service ::
+Extract complete list of bugs from a service (Might take several hours)::
 
     $ python3 generalextractor.py [service]
 
-Run the program with::
+Extract bugs from a specific project inside a service (Might take up to 1 hour)::
 
-    $ npm start
-
-The api will be available at
-
-  "http://localhost:3000"
+    $ python3 generalextractor.py mozilla firefox
 
 
-To make use of the API just follow these rules
+**When any of this commands are runned the information is saved to
+spreadsheets (TSV file) and save to the main TaskAssignment mongo
+database with the schema indicated**
 
 
 Services available
 --------
 
-- Mozilla
-- Eclipse
+- mozilla
+- eclipse
 
 The rest of projects hosted on Bugzilla might work
 but are not tested and completely supported
 
 
-Contribute
+Projects
 ----------
+
+These are example test
 
 - Issue Tracker: github.com/$project/$project/issues
 - Source Code: github.com/$project/$project
 
-Support
+Examples
 -------
 
 If you are having issues, please let us know.
 We have a mailing list located at: project@google-groups.com
 
-License
+Troubleshooting
 -------
 
-The project is licensed under the BSD license.
+IF
