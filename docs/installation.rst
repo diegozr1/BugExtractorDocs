@@ -9,7 +9,3 @@ Clone the repository::
 Install the packages with pip::
 
     $ pip3 install -r requirements.txt
-
-============
-Installation
-============
