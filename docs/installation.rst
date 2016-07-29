@@ -4,7 +4,7 @@ IssuesProvider
 https://github.com/TaskAssignment/IssuesProvider
 
 
-The issuesprovider is an API that integrates all the bugs found in the repositories hosted
+The issuesprovider is an API built with Node.js that integrates all the bugs found in the repositories hosted
 in Github, BugZilla and Gitlab
 
 Clone the repository::
