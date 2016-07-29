@@ -9,7 +9,7 @@ and integrate it to the main Task Assignment project
 
 
 Projects
--------
+--------
 
 * IssuesProvider - https://github.com/TaskAssignment/IssuesProvider
 
@@ -19,13 +19,17 @@ This is a Node.js project that is already test for the exploration of the
 * BugExtractor - https://github.com/TaskAssignment/BugExtractor
 
 This is a Python 3 Script that crawls the BugZilla platform for finding the complete list of projects
-of each open source organization and 
+of each open source organization hosted in there and the extract the information of each bug in every
+component. This currently is tested on Mozilla and Eclipse.
 
 
 * Node.js - Python Integration - https://github.com/TaskAssignment/IntegratePythonExplorer
 
 This is a Node.js project that runs the python3 shell in order to incorporate the BugExtractor to the
 main Task Assignment project
+
+
+For all the last concerns check the Troubleshooting button
 
 
 Team
