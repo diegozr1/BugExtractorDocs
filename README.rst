@@ -1,8 +1,9 @@
 Bug Extractor
 ========
+https://github.com/TaskAssignment/BugExtractor
 
-$project is made with 3 repositories for the exploration and extraction of bugs accross several
 
+The bug
 Look how easy it is to use::
 
     import project

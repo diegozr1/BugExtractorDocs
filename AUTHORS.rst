@@ -17,7 +17,7 @@ This is a Node.js project that is already test for the exploration of the main p
     - Github
     - Bitbucket
     - Gitlab
-    - BugParty(When deployed and running)
+    - BugParty (When deployed and running)
 
 You can check the live version of this API available here: https://issuesprovider.herokuapp.com
 

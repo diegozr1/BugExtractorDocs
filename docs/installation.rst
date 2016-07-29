@@ -1,6 +1,8 @@
 ============
 IssuesProvider
 ============
+https://github.com/TaskAssignment/IssuesProvider
+
 
 The issuesprovider is an API that integrates all the bugs found in the repositories hosted
 in Github, BugZilla and Gitlab
@@ -75,7 +77,7 @@ Examples
 Important
 ---------
 
-- for the gitlab service you don't have to provide your username but your access_token you can grab it at
+- For the gitlab service you don't have to provide your username but your access_token you can grab it at
 
 "https://gitlab.com/profile/account" or "/api/v1/gitlab/token/:user/password/"
 
