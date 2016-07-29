@@ -1,5 +1,3 @@
-About
--------
 
 This is the documentation site for all projectes related to the Issues exploration purpose.
 
