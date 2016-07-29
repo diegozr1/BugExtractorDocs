@@ -13,10 +13,11 @@ Projects
 * IssuesProvider - https://github.com/TaskAssignment/IssuesProvider
 
 This is a Node.js project that is already test for the exploration of the main platforms
+
     - Github
     - Bitbucket
     - Gitlab
-    -
+    - BugParty(When deployed and running)
 
 You can check all the live version available here: https://issuesprovider.herokuapp.com
 
