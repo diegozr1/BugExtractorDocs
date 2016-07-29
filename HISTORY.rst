@@ -2,9 +2,11 @@ Node.js - Python3 Integration
 -------
 
 Integration of the Python3 extraction tool is made with Node.js
+to integrate it to the main TaskAssignment project and run it well
 
-About
-------
+
+**About**
+
 
 The npm package used for this is::
 
@@ -16,8 +18,8 @@ https://www.npmjs.com/package/python-shell
 
 
 
-Installation
-------
+**Installation**
+
 
 Clone the repository::
 
@@ -38,27 +40,3 @@ Run the program with::
 The api will be available at
 
   "http://localhost:3000"
-
-
-  About
-  ------
-
-abouts alsdfjakadf
-
-
-  About
-  ------
-
-asdfasdf
-
-  About
-  ------
-
-asdfasdfa
-
-
-  About
-  ------
-
-
-asdfasdfas
