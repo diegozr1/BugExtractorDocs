@@ -4,7 +4,7 @@ Troubleshooting
 
 Most of the errors you mentioned before are fixed, but there are some important points to remark:
 
- - When the asignee is "nobody@mozilla.org" doesn't mean that the user isn't logged in, but that the bug hasn't been assigned to anyone. (When isn't logged in it says "nobody", you can check that https://bugzilla.mozilla.org/show_bug.cgi?id=1130155 logged in)
+- When the asignee is "nobody@mozilla.org" doesn't mean that the user isn't logged in, but that the bug hasn't been assigned to anyone. (When isn't logged in it says "nobody", you can check that https://bugzilla.mozilla.org/show_bug.cgi?id=1130155 logged in)
 
 - The extraction of the profiles information fields are complicated to do since the website all the information with a table and for web scrapping a better structure with name of classes and id's on every HTML is needed. I'm facing this problem with a different approach, but for now those are the only fields that I can get.
 

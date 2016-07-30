@@ -72,10 +72,12 @@ These are example projects in Mozilla
 Examples
 -------
 
-If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+- python3 generalextractor.py mozilla
+- python3 generalextractor.py mozilla thunderbird
+- python3 generalextractor.py mozilla tookit
+
 
 Troubleshooting
 -------
 
-IF
+If this script runs in any problem let me know
