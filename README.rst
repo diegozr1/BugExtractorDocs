@@ -16,7 +16,7 @@ Clone the repository::
 
     $ git clone https://github.com/TaskAssignment/BugExtractor
 
-Change the directory
+Change the directory::
 
     $ cd BugExtractor
 
@@ -34,7 +34,7 @@ Show services available::
 
 Show projects from a service::
 
-    $ python3 generalextractor.py showprojects
+    $ python3 generalextractor.py showprojects mozilla
 
 Extract complete list of bugs from a service (Might take several hours)::
 
@@ -49,6 +49,8 @@ Extract bugs from a specific project inside a service (Might take up to 1 hour):
 spreadsheets (TSV file) and save to the main TaskAssignment mongo
 database with the schema indicated**
 
+
+*This example uses mozilla this can be changed to eclipse or any other when supported*
 
 Services available
 --------

@@ -13,7 +13,7 @@ The documentation for every project can be found on this site
 Projects
 --------
 
-* IssuesProvider - https://github.com/TaskAssignment/IssuesProvider
+* **IssuesProvider** - https://github.com/TaskAssignment/IssuesProvider
 
 This is a Node.js project that is already test for the exploration of the main platforms
 
@@ -25,7 +25,7 @@ This is a Node.js project that is already test for the exploration of the main p
 You can check the live version of this API available here: https://issuesprovider.herokuapp.com
 
 
-* BugExtractor - https://github.com/TaskAssignment/BugExtractor
+* **BugExtractor** - https://github.com/TaskAssignment/BugExtractor
 
 
 
@@ -36,7 +36,7 @@ component. This currently is tested on Mozilla and Eclipse.
 
 
 
-* Node.js - Python Integration - https://github.com/TaskAssignment/IntegratePythonExplorer
+* **Node.js - Python Integration** - https://github.com/TaskAssignment/IntegratePythonExplorer
 
 This is a Node.js project that runs the python3 shell in order to incorporate the BugExtractor to the
 main Task Assignment project
