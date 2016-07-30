@@ -30,15 +30,15 @@ Use
 
 Show services available::
 
-  $  python3 generalextractor.py [service] [projects]
+    $ python3 generalextractor.py services
 
 Show projects from a service::
 
-  $ cd IssuesProvider
+    $ python3 generalextractor.py showproject
 
 Extract complete list of bugs from a service (Might take several hours)::
 
-    $ python3 generalextractor.py [service]
+    $ python3 generalextractor.py mozilla
 
 Extract bugs from a specific project inside a service (Might take up to 1 hour)::
 
@@ -63,10 +63,11 @@ but are not tested and completely supported
 Projects
 ----------
 
-These are example test
+These are example projects in Mozilla
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Firefox
+- Thunderbird
+- Toolkit
 
 Examples
 -------
