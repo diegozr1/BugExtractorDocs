@@ -34,7 +34,7 @@ Show services available::
 
 Show projects from a service::
 
-    $ python3 generalextractor.py showproject
+    $ python3 generalextractor.py showprojects
 
 Extract complete list of bugs from a service (Might take several hours)::
 
