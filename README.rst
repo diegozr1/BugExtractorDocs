@@ -30,7 +30,7 @@ Use
 
 Show services available::
 
-    $ python3 generalextractor.py services
+    $ python3 generalextractor.py showservices
 
 Show projects from a service::
 
@@ -51,6 +51,7 @@ database with the schema indicated**
 
 
 *This example uses mozilla this can be changed to eclipse or any other when supported*
+
 
 Services available
 --------
