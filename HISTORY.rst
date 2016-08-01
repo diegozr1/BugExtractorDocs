@@ -36,7 +36,7 @@ Install the packages with npm and python3::
 
 Run the program with::
 
-    $ npm start
+    $ node app.js
 
 The api will be available at
 

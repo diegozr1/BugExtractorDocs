@@ -50,6 +50,8 @@ spreadsheets (TSV file) and save to the main TaskAssignment mongo
 database with the schema indicated**
 
 
+** It is mandatory to keep the folder called "data" so that the information can be saved there**
+
 *This example uses mozilla this can be changed to eclipse or any other when supported*
 
 
